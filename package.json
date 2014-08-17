@@ -1,0 +1,28 @@
+{
+  "name": "dustjs-helper-htmlstrip",
+  "version": "0.0.1",
+  "author": "Federico Rampazzo <frampone@gmail.com> (http://framp.me)",
+  "description": "strip html tags from text",
+  "keywords": [
+    "html",
+    "strip",
+    "tags",
+    "htmlstrip",
+    "helper",
+    "helpers",
+    "dust",
+    "dustjs"
+  ],
+  "main": "./htmlstrip.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/framp/dust-helper-htmlstrip.git"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.5"
+  },
+  "dependencies": {
+    "htmlstrip-native": "0.0.2"
+  }
+}
