@@ -16,7 +16,7 @@
   "main": "./htmlstrip.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/framp/dust-helper-htmlstrip.git"
+    "url": "https://github.com/framp/dustjs-helper-htmlstrip.git"
   },
   "license": "MIT",
   "engine": {
