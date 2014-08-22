@@ -1,7 +1,8 @@
 (function(dust, htmlstrip){
 dust.helpers.htmlstrip = function (chunk, ctx, bodies, params) {
   var str = dust.helpers.tap(params.str, chunk, ctx);
-  
+  if (!str)
+    return chunk.write('');
   var options = {
     include_script: dust.helpers.tap(params.script, chunk, ctx) === 'true',
     include_style: dust.helpers.tap(params.script, chunk, ctx) === 'true',

@@ -1,6 +1,6 @@
 {
   "name": "dustjs-helper-htmlstrip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Federico Rampazzo <frampone@gmail.com> (http://framp.me)",
   "description": "strip html tags from text",
   "keywords": [
