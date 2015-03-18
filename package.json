@@ -1,6 +1,6 @@
 {
   "name": "dustjs-helper-htmlstrip",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Federico Rampazzo <frampone@gmail.com> (http://framp.me)",
   "description": "strip html tags from text",
   "keywords": [
@@ -23,6 +23,6 @@
     "node": ">=0.5"
   },
   "dependencies": {
-    "htmlstrip-native": "0.0.6"
+    "htmlstrip-native": "0.1.1"
   }
 }
