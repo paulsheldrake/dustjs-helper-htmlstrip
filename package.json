@@ -23,6 +23,6 @@
     "node": ">=0.5"
   },
   "dependencies": {
-    "htmlstrip-native": "0.1.1"
+    "htmlstrip-native": "0.1.4"
   }
 }
